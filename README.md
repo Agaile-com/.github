@@ -1,4 +1,3 @@
-# .github
 # Agaile Inc.
 
 Welcome to Agaile Inc.'s GitHub organization! We're revolutionizing the way businesses leverage AI technologies through our innovative production platform for mass customization of generative AI services.
