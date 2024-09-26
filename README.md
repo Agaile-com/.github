@@ -54,11 +54,7 @@ We're always looking to improve and expand our offerings. If you're interested i
 
 ## Contact Us
 
-[Insert contact information or links here]
-
-## License
-
-[Insert appropriate license information here]
+https://agaile.ai  
 
 ---
 
